@@ -1,5 +1,5 @@
 ### Data modelling and ETL using AWS Redshift
-This repo. contains the code to implement a ETL pipeline which extracts data from AWS S3, transforms them to a Star Schema analytic database and load them into the AWS Redshift. It simulates a fictious scenario setout in the UDacity Data Engineering with AWS Nanodegree. 
+This repository contains the code to implement an ETL pipeline which extracts data from AWS S3, transforms them to a Star Schema analytic database and load them into the AWS Redshift. It simulates a fictious scenario setout in the UDacity Data Engineering with AWS Nanodegree. 
 
 ### Project Background: Sparkify S3 to Redshift ETL
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app. In this project, an ETL pipeline is built which extracts Sparkify data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for analytics team to continue finding insights into what songs their users are listening to.
